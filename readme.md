@@ -1,3 +1,5 @@
+# moved to `@fisker/stylelint-config` instead [https://github.com/fisker/shared-configs/tree/master/packages/stylelint-config](https://github.com/fisker/shared-configs/tree/master/packages/stylelint-config)
+
 # stylelint-config-fisker
 
 [![devDependencies](https://img.shields.io/david/dev/stylelint-config-fisker.svg?style=flat-square)](https://david-dm.org/stylelint-config-fisker)
